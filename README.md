@@ -8,3 +8,7 @@ Plotting efficient portfolio of portfolio return and risk between two stocks in 
 •	Bdshare
 •	Numpy
 
+
+<p align="center">
+  <img src="tkinter_plot.JPG" alt="Efficient frontier" width="750"/>
+</p>
